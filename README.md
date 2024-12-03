@@ -8,7 +8,11 @@
 <br>
 
 ## 💫 About Me:
-🔭 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐰𝐞𝐛 𝐬𝐲𝐬𝐭𝐞𝐦 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞<br>👯 𝐈’𝐦 𝐁.𝐓𝐞𝐜𝐡 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 𝐝𝐚𝐭𝐚 𝐬𝐜𝐢𝐞𝐧𝐜𝐞<br>🌱 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠  𝐑𝐞𝐚𝐜𝐭.𝐣𝐬 & 𝐍𝐨𝐝𝐞.𝐣𝐬<br>💬 𝐀𝐬𝐤 𝐦𝐞 𝐚𝐛𝐨𝐮𝐭 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭<br>⚡ 𝐌𝐲 𝐎𝐫𝐠𝐚𝐧𝐢𝐳𝐚𝐭𝐢𝐨𝐧𝐬 𝐂𝐘𝐍𝐎𝐑 <br> <br> <br> ᴄʏɴᴏʀ ᴄᴜꜱᴛᴏᴍ ᴡᴇʙ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ꜱᴇʀᴠɪᴄᴇꜱ ɪɴᴄʟᴜᴅᴇ ʙᴏᴛʜ ꜰʀᴏɴᴛ-ᴇɴᴅ ᴀɴᴅ ʙᴀᴄᴋ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ. ᴡʜᴇᴛʜᴇʀ ɪᴛ ɪꜱ ᴇɴʜᴀɴᴄɪɴɢ ᴀɴ ᴇxɪꜱᴛɪɴɢ ᴀᴘᴘ ᴏʀ ᴀʀᴄʜɪᴛᴇᴄᴛɪɴɢ ᴀɴ ᴇɴᴛᴇʀᴘʀɪꜱᴇ ᴀᴘᴘ, ᴏᴜʀ ᴅᴇᴠᴇʟᴏᴘᴇʀꜱ ᴀʀᴇ ᴜᴘ ꜰᴏʀ ᴛʜᴇ ᴄʜᴀʟʟᴇɴɢᴇ..
+🚀 I'm currently studying at Sanjivani University 🎓, where I'm pursuing my passion for technology and innovation.<br>
+👩‍💻 As a B.Tech student specializing in 🤖 Artificial intelligence & Data Science 💡, I'm gaining valuable knowledge to solve real-world problems through data-driven insights.<br>
+🌱 Right now, I'm diving into the world of Python 🐍 and honing my coding skills to build efficient solutions.<br>
+⚡ I’m excited about exploring 🤖 Artificial intelligence (AI) to further enhance my expertise in this rapidly evolving field.<br>
+💬 Always eager to learn and collaborate on exciting tech projects!<br><br><br>
 
  [Company Website](https://cynor2020.github.io/a/)
 
